@@ -1,0 +1,89 @@
+body{
+    background-color: darkcyan;
+        font-family: "Protest Riot", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+
+}
+.titulo{
+    background-color: gray;
+    text-shadow: 3px 5px 5px orange;
+    text-align: center;
+    text-decoration: overline;
+}
+#div{
+
+    background-image: url(../images/fondog.jpg);
+    background-size: cover;
+    border-radius: 15px;
+    border-style: double;
+    border-width: 10px;
+    color: black (13, 14, 14);
+    width: 900px;
+    height: 900px;    
+    }
+#div2{
+
+    background-color: rgba(105, 105, 105, 0.652);
+    background-size: contain;
+        font-family: "Protest Riot", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    border-style: double;
+    border-radius: 15px;
+    border-width: 10px;
+    color: black (13, 14, 14);
+    width: 500px;
+    height: 850px;
+    
+}
+.imagen{
+    width: 200px;
+    height: 200px; 
+    border-style: double;
+    text-align: center;
+    
+   
+}
+#titulo{
+    background-color: green;
+    text-shadow: 3px 5px 5px rgba(0, 0, 255, 0.838);
+    text-align: center;
+    text-decoration: overline;
+}
+#div3{
+    background-color: rgba(57, 196, 57, 0.63);
+    background-size: cover;
+    text-align: center;
+    border-style: double;
+    width: 400px;
+    height: 250px;
+}
+p{
+    
+    font-family: "Protest Riot", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    word-spacing: 2mm;
+    line-height: 5mm;
+    text-align: justify;
+}
+
+.div4{
+    background-color: rgba(44, 111, 152, 0.715);
+    background-size: cover;
+    text-align: center;
+    border-style: double;
+    width: 420px;
+    height: 145px;
+}
+table{
+    border: 1px solid black;
+    width: 100%;
+}
+th, td{
+    border: 1px solid black;
+    padding: 10px;
+}
